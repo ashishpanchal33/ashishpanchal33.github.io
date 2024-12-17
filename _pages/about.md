@@ -1,4 +1,4 @@
----
+ce---
 permalink: /
 title: "Ashish Panchal's Page"
 author_profile: true
@@ -20,7 +20,7 @@ At the moment I am working as a Research Associate at The Indian School of Busin
 
 <p style="text-align: justify;">My explorations have shown that we are quite good at adapting to changes, both big and small. The recent global economic comeback serves as compelling evidence of this! However, unlike humans, current RL agents find it challenging to cope with the non-stationarity inherent in real-life scenarios.</p>
 
-<p style="text-align: justify;">Therefore, as a first step, I aim to instill human-like evolution in AI by studying domains and problems that highlight our capacity to adapt, such as music creation, driving in traffic, and business market interactions, among others.</p>
+<p style="text-align: justify;">Hence, as a first step, I aim to instill human-like evolution in AI by studying domains and problems that highlight our capacity to adapt, such as music creation, driving in traffic, and business market interactions, among others.</p>
 
 <p style="text-align: justify;">Human adaptability provides a relevant and accessible starting point for addressing this challenge. The vast amount of data we generate daily offers a rich resource for studying these adaptive strategies. However, I believe that human learning is not the only effective approach. The ability to adjust to environmental changes is a fundamental property throughout the natural world, and studying these diverse adaptive mechanisms can reveal more sophisticated and subtle strategies.</p>
 
