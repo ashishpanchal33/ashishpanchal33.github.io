@@ -19,3 +19,5 @@ I am interested in AI's potential to navigate social settings. My primary focus 
 I'm deeply concerned about the insidious inequities perpetuated by evolving and persistent dogmas that infiltrate AI-powered products and services. Data-driven AI tools can unknowingly perpetuate our own ill-founded and often-forgotten biases. Even when we identify, rectify, and evolve beyond these biases, majority of our transcripts often reflects outdated beliefs. This older, biases forms the omnipresent machine learning and data pipelines, exacerbating the problem.
 
 Therefore, it is paramount that AI learns to evolve and adapt with us, or even better, facilitates our positive evolution!
+
+My explorations have shown that we are quite good at adapting to changes, both big and small. The recent global economic comeback serves as compelling evidence of this! However, unlike humans, current RL agents find it challenging to cope with the non-stationarity inherent in real-life scenarios. 
