@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-| :---------------------------------------------------------------------------------------------:|
+{: here is something :}
 |Hi!| 
 |I am Ashish Panchal and I want to build highly adaptable decision-making  AI to help our society.|
 ||
