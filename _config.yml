@@ -9,6 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Ashish Panchal"
+
 title_separator          : "-"
 name                     : &name "Ashish Panchal"
 description              : &description "Ashish Panchal"
