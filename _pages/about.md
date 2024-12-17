@@ -12,7 +12,7 @@ I am Ashish Panchal and I want to build AI to help our society.
 About Me
 ======
 
-At the moment I am working as a Research Associate at Indian School of Business, with [Professor Vandith Pamuru](https://www.isb.edu/en/research-thought-leadership/faculty/faculty-directory/vandith-pamuru.html).
+At the moment I am working as a Research Associate at The Indian School of Business, with [Professor Vandith Pamuru](https://www.isb.edu/en/research-thought-leadership/faculty/faculty-directory/vandith-pamuru.html).
 
 I am interested in AI's potential to navigate social settings. My primary focus is on real-world, human-AI interaction, where AI can help us make socially-conscious decisions while mitigating harmful societal influences. Furthermore, through autonomous AI decision-making, I aim to augment human capabilities in managing situations beyond our control, such as interactions with other AI agents or unpredictable environmental events.
 
