@@ -6,10 +6,10 @@
 
 main:
 
-  - title: "Projects and Publications"
+  - title: "Projects | Publications"
     url: /publications/
     
-  - title: "Experiences|CV"
+  - title: "Experiences | CV"
     url: /cv/
 
   #- title: "Talks"
@@ -24,7 +24,7 @@ main:
   - title: "Helping People"
     url: /year-archive/
     
-  - title: "My Art"
+  - title: "My Art!"
     url: /year-archive/  
     
   #- title: "Guide"
