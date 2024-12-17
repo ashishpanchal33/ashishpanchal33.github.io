@@ -26,3 +26,8 @@ Human adaptability provides a relevant and accessible starting point for address
 
 
 To learn more about my recent explorations, please visit my [Projects](https://ashishpanchal33.github.io/publications.html) page. You can also find more about my skills and experience in my [CV](https://ashishpanchal33.github.io/cv.html).
+
+Update!
+======
+I am currently applying to PhD programs. 
+Please feel free to reach out if you believe we could be a great team!
