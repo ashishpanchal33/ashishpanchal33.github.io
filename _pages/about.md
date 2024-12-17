@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<style> 
+<div style="text-align: justify">
 Hi!
 I am Ashish Panchal and I want to build highly adaptable decision-making  AI to help our society.
 
@@ -26,7 +26,7 @@ Human adaptability provides a relevant and accessible starting point for address
 
   
 To learn more about my recent explorations, please visit my [Projects](https://ashishpanchal33.github.io/publications.html) page. You can also find more about my skills and experience in my [CV](https://ashishpanchal33.github.io/cv.html).
-{text-align: justify}</style>
+</div>
 
 
 Update!
