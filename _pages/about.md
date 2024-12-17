@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 Hi! 
-I am Ashish Panchal and I want to build AI to help our society.
+I am Ashish Panchal and I want to build highly adaptable decision-making AI to help our society.
 
 About Me
 ======
