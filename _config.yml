@@ -29,7 +29,7 @@ author:
   location         : "Hyderabad, India"
   employer         : "Indian School of Business"
   uri              : # URL
-  email            : "<firstname>_<lastname>[at]isb.edu" 
+  email            : "firstname_lastname[at]isb.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
