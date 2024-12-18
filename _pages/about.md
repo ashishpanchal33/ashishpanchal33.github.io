@@ -1,4 +1,4 @@
-ce---
+---
 permalink: /
 title: "Ashish Panchal's Page"
 author_profile: true
