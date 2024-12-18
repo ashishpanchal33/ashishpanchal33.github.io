@@ -25,7 +25,7 @@ At the moment I am working as a Research Associate at The Indian School of Busin
 <p style="text-align: justify;">Human adaptability provides a relevant and accessible starting point for addressing this challenge. The vast amount of data we generate daily offers a rich resource for studying these adaptive strategies. However, I believe that human learning is not the only effective approach. The ability to adjust to environmental changes is a fundamental property throughout the natural world, and studying these diverse adaptive mechanisms can reveal more sophisticated and subtle strategies.</p>
 
   
-To learn more about my recent explorations, please visit my [Projects](https://ashishpanchal33.github.io/publications.html) page. You can also find more about my skills and experience in my [CV](https://ashishpanchal33.github.io/cv.html).
+To learn more about my recent explorations, please visit my [Projects](https://ashishpanchal33.github.io/publications/) page. You can also find more about my skills and experience in my [CV](https://ashishpanchal33.github.io/cv/).
 
 
 Update!
