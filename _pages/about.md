@@ -15,8 +15,7 @@ Hi!
 I am Ashish Panchal and I want to build highly adaptable decision-making  AI to help our society.
 
 At the moment I am working as a Research Associate at The Indian School of Business, with [Professor Vandith Pamuru](https://www.isb.edu/en/research-thought-leadership/faculty/faculty-directory/vandith-pamuru.html).
-
-<p style="text-align: justify;"> I am interested in AI's potential to navigate social settings. My primary focus is on real-world, human-AI interaction, where AI can help us make socially-conscious decisions while mitigating harmful societal influences. Furthermore, through autonomous AI decision-making, I aim to augment human capabilities in managing situations beyond our control, such as interactions with other AI agents or unpredictable environmental events.</p>
+<span class="small_font" style="text-align: justify;"> I am interested in AI's potential to navigate social settings. My primary focus is on real-world, human-AI interaction, where AI can help us make socially-conscious decisions while mitigating harmful societal influences. Furthermore, through autonomous AI decision-making, I aim to augment human capabilities in managing situations beyond our control, such as interactions with other AI agents or unpredictable environmental events.</span>
 
 <p style="text-align: justify;">I'm deeply concerned about the insidious inequities perpetuated by evolving and persistent dogmas that infiltrate AI-powered products and services. Data-driven AI tools can unknowingly perpetuate our own ill-founded and often-forgotten biases. Even when we identify, rectify, and evolve beyond these biases, majority of our transcripts often reflects outdated beliefs. This older, biases forms the omnipresent machine learning and data pipelines, exacerbating the problem.</p>
 
