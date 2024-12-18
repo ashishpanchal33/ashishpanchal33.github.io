@@ -12,7 +12,7 @@ redirect_from:
 
 {: style="text-align: justify" }
 Hi!
-I am Ashish Panchal and I want to build highly adaptable decision-making  AI to help our society.
+I am Ashish and I want to build highly adaptable decision-making  AI to help our society.
 
 At the moment I am working as a **Research Associate** at the **Indian School of Business**, with [Professor Vandith Pamuru](https://www.isb.edu/en/research-thought-leadership/faculty/faculty-directory/vandith-pamuru.html).
 
