@@ -15,6 +15,11 @@ Hi!
 I am Ashish Panchal and I want to build highly adaptable decision-making  AI to help our society.
 
 At the moment I am working as a **Research Associate** at the **Indian School of Business**, with [Professor Vandith Pamuru](https://www.isb.edu/en/research-thought-leadership/faculty/faculty-directory/vandith-pamuru.html).
+
+<p style="text-align: justify;"> <b>Prior Experiences</b> I have spent the last 7 years designing ML pipelines in an analytics startup, a fintech product company, and one of the biggest consulting firms. The problems I have worked on range from credit risk and customer modeling to automated insight generation from social listening and forecasting models. You can also find more about my skills and experience in my <a target="_blank" href="[http://liampaull.ca/](https://ashishpanchal33.github.io/cv/)">CV</a>. </p>
+
+
+<h3 >Research Insterests</h3>
 <p style="text-align: justify;"> I am interested in AI's potential to navigate social settings. My primary focus is on real-world, human-AI interactions, where AI can help us make socially conscious decisions while mitigating harmful societal influences. Furthermore, through autonomous AI decision-making, I aim to augment human capabilities in managing situations beyond our control, such as interactions with other AI agents or unpredictable environmental events.</p>
 
 <p style="text-align: justify;">I'm deeply concerned about the insidious inequities perpetuated by evolving and persistent dogmas that infiltrate AI-powered products and services. Data-driven AI tools can unknowingly perpetuate our own ill-founded and often-forgotten biases. Even when we identify, rectify, and evolve beyond these biases, most of our transcripts reflect outdated beliefs. These older, biases form the omnipresent machine learning and data pipelines, exacerbating the problem.</p>
@@ -28,7 +33,7 @@ At the moment I am working as a **Research Associate** at the **Indian School of
 <p style="text-align: justify;">Human adaptability provides a relevant and accessible starting point for addressing this challenge. The vast amount of data we generate daily offers a rich resource for studying these adaptive strategies. However, I believe that human learning is not the only effective approach. The ability to adjust to environmental changes is a fundamental property throughout the natural world, and studying these diverse adaptive mechanisms can reveal more sophisticated and subtle strategies.</p>
 
   
-To learn more about my recent explorations, please visit my [Projects](https://ashishpanchal33.github.io/publications/) page. You can also find more about my skills and experience in my [CV](https://ashishpanchal33.github.io/cv/).
+To learn more about my recent explorations, please visit my [Projects](https://ashishpanchal33.github.io/publications/) page. 
 
 
 Update!
