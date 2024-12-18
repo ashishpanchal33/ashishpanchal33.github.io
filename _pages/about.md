@@ -16,7 +16,7 @@ I am Ashish Panchal and I want to build highly adaptable decision-making  AI to 
 
 At the moment I am working as a **Research Associate** at the **Indian School of Business**, with [Professor Vandith Pamuru](https://www.isb.edu/en/research-thought-leadership/faculty/faculty-directory/vandith-pamuru.html).
 
-<p style="text-align: justify;"> <b>Prior Experiences</b> I have spent the last 7 years designing ML pipelines in an analytics startup, a fintech product company, and one of the biggest consulting firms. The problems I have worked on range from credit risk and customer modeling to automated insight generation from social listening and forecasting models. You can also find more about my skills and experience in my <a target="_blank" href="[http://liampaull.ca/](https://ashishpanchal33.github.io/cv/)">CV</a>. </p>
+<p style="text-align: justify;"> <b>Prior Experiences</b>: I have spent the last 7 years designing ML pipelines in an analytics startup, a fintech product company, and one of the biggest consulting firms. The problems I have worked on range from credit risk and customer modeling to automated insight generation from social listening and forecasting models. You can also find more about my skills and experience in my <a target="_blank" href="/cv/">CV</a>. </p>
 
 
 <h3 >Research Insterests</h3>
