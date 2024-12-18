@@ -6,6 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<div hidden="hidden">
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=P0DmcjPhTVQDSVsO6eLpfLlblpD7aYEdFi8dEehI1TI&cl=ffffff&w=a"></script>
+</div>
+
 {: style="text-align: justify" }
 Hi!
 I am Ashish Panchal and I want to build highly adaptable decision-making  AI to help our society.
