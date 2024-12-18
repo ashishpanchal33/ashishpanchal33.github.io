@@ -42,10 +42,10 @@ Please feel free to reach out if you believe we could be a great team!
 
 Note
 ======
-Why do I believe in adaptive equity? \n
+Why do I believe in adaptive equity?
 Simply because a one-size-fits-all approach to fairness may be insufficient or even counterproductive in the face of changing circumstances, diverse needs, and evolving social norms.
 
-Is adaptive equity the only goal of my journey?\n
+Is adaptive equity the only goal of my journey?
 No, I expect my goals and journey to evolve. However, outcome optimization is a core principle I strongly believe in, and one that will likely guide me for years to come. These outcomes can be driven by multiple objectives. For instance, increasing profitability and equity for a product company are not mutually exclusive.
 
 
