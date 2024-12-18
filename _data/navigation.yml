@@ -8,10 +8,10 @@ main:
   - title: "About me"
     url: /about/
     
-  - title: "Projects | Publications"
+  - title: "Projects | Publications (WIP)"
     url: /publications/
     
-  - title: "Experiences | CV"
+  - title: "Experiences | CV (WIP)"
     url: /cv/
 
   #- title: "Talks"
@@ -26,7 +26,7 @@ main:
   #- title: "Helping People"
   #  url: /year-archive/
     
-  - title: "My Art! and other things"
+  - title: "My Art! and other things (WIP)"
     url: /year-archive/  
     
   #- title: "Guide"
