@@ -178,11 +178,13 @@ Skills
 * **Research Experience**: Literature review, Research Study and Experiment Design, Statistical Analysis, Meta-Analysis, IRB transcript and Project report writing.
 * **Management**: Project and Task planning, Call and Client management, Team management.
 
-Publications
+Projects and Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+
+Please refer [Projects | Publications](/publications/) page
+  <!--<ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> --->
 
   
 Social Responsibility
