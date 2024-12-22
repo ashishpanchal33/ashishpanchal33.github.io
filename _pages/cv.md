@@ -40,7 +40,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Computer Science, Georgia Institute of Technology, 2024
+* [M.S. in Computer Science](https://www.parchment.com/u/award/faa1551a16ea5402915eda6d54efa156), Georgia Institute of Technology, 2024
   + <span style="font-size: 0.75em">GPA: 3.8/4.0</span>
   + <span style="font-size: 0.75em">Related courses: Reinforcement Learning, Deep Learning, Machine Learning, Artificial Intelligence, AI for Robotics, Game AI, Ethics in AI, Data & Visual Analytics, Graduate Algorithms</span>
    
@@ -240,6 +240,6 @@ Selected Certifications:
 * Probability - The Science of Uncertainty and Data (2020) – MITx on Edx
 * Fundamentals of Statistics (2020) – MITx on Edx
 * Data Analysis in Social Science(2020) – MITx on Edx
-* Machine Learning with Python-From Linear Models to Deep Learning (2020) – MITx on Edx
+* Machine Learning with Python-From Linear Models to Deep Learning (2020) – MITx on Edx (MIT 18.650)
 
 
