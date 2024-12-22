@@ -11,13 +11,7 @@ redirect_from:
 
 
 
-<head>
-  <title>Ashish Panchal</title>
 
-
-  <link rel="stylesheet" type="text/css" href="assests/style.css">
-  <link rel="stylesheet" type="text/css" href="assests/academicons.min.css">
-  <script src="assests/fontawesome.js"></script>
 
   <script>
     function pressBtn(p) {
@@ -42,8 +36,7 @@ redirect_from:
     function img_unhover(e, f) {
       e.setAttribute("src", f);
     }
-  </script>
-  </head>
+</script>
 
 
 
