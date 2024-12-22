@@ -12,11 +12,11 @@ redirect_from:
 Education
 ======
 * M.S. in Computer Science, Georgia Institute of Technology, 2024
-  * GPA: 3.8/4.0
-  * Related courses: Reinforcement Learning, Deep Learning, Machine Learning, Artificial Intelligence, AI for Robotics, Game AI, Ethics in AI, Data & Visual Analytics, Graduate Algorithms   
+  * <p font-size: 0.75em>GPA: 3.8/4.0</p>
+  * <p font-size: 0.75em>Related courses: Reinforcement Learning, Deep Learning, Machine Learning, Artificial Intelligence, AI for Robotics, Game AI, Ethics in AI, Data & Visual Analytics, Graduate Algorithms</p>   
 * B.E. in Electronics and Telecommunication, Army Institute of Technology (SPPU), India, 2017
-  * GPA: 3.5/4.0, (AGIF Scholarship Recipient)
-  * Related courses: Soft Computing, Internet of things, Information Theory, System Programming and Microcontrollers
+  * <p font-size: 0.75em>GPA: 3.5/4.0, (AGIF Scholarship Recipient)</p>
+  * <p font-size: 0.75em>Related courses: Soft Computing, Internet of things, Information Theory, System Programming and Microcontrollers</p>
 
 Work experience
 ======
