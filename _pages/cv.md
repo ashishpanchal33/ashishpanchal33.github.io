@@ -16,7 +16,7 @@ Education
   + <span style="font-size: 0.75em">Related courses: Reinforcement Learning, Deep Learning, Machine Learning, Artificial Intelligence, AI for Robotics, Game AI, Ethics in AI, Data & Visual Analytics, Graduate Algorithms</span>
    
 * B.E. in Electronics and Telecommunication, Army Institute of Technology (SPPU), India, 2017
-  + <span style="font-size: 0.75em">GPA: 3.5/4.0, (AGIF Scholarship Recipient)</span>
+  + <span style="font-size: 0.75em">GPA: 3.561/4.0, (AGIF Scholarship Recipient)</span>
   + <span style="font-size: 0.75em">Related courses: Soft Computing, Internet of things, Information Theory, System Programming and Microcontrollers</span>
 
 Work experience
