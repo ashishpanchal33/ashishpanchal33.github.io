@@ -101,6 +101,27 @@ redirect_from:
   .art-item.text-right p {
     margin-top: 0;
   }
+
+    /* Magnified View Styles */
+  #magnified-view {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8); /* Dark overlay */
+    display: none; /* Hidden by default */
+    justify-content: center;
+    align-items: center;
+    cursor: pointer; /* Indicate clickable to close */
+    z-index: 1000; /* Ensure it's on top */
+  }
+
+  #magnified-view img {
+    max-width: 90%;
+    max-height: 90%;
+    object-fit: contain; /* Show entire image */
+  }
   
 </style>
 
@@ -108,32 +129,37 @@ redirect_from:
 <div class="gallery-container">
 
   <div class="art-item text-left">
-    <img src="/images/Power.svg" alt="Description of art piece 1" class="gallery-image">
+    <img src="/images/Power.svg" alt="Description of art piece 1" class="gallery-image" onclick="openMagnified('/images/Power.svg')">
+    <p style="font-size: 0.9em; color: #fff;"><b>The Silent Power</b>: </p>
+  </div>
+  
+  <div class="art-item text-right">
+    <img src="/images/Budha.svg" alt="Description of art piece 1" class="gallery-image" onclick="openMagnified('/images/Budha.svg')">
     <p style="font-size: 0.9em; color: #fff;">Title of Art 1</p>
   </div>
-
+  <br>
   <div class="art-item">
-    <img src="/images/Momu.svg" alt="Description of art piece 2" class="small-image">
+    <img src="/images/Momu.svg" alt="Description of art piece 2" class="small-image" onclick="openMagnified('/images/Momu.svg')">
     <p style="font-size: 0.9em; color: #fff;">Another Great Piece</p>
   </div>
 
   <div class="art-item">
-    <img src="/images/baby_hands_momu.svg" alt="Description of art piece 3" class="small-image">
+    <img src="/images/baby_hands_momu.svg" alt="Description of art piece 3" class="small-image" onclick="openMagnified('/images/baby_hands_momu.svg')">
     <p style="font-size: 0.9em; color: #fff;">[Artist Name] - [Year]</p>
   </div>
 
   <div class="art-item text-right">
-    <img src="/images/the_3_myths.svg" alt="Description of art piece 4" class="gallery2-image">
+    <img src="/images/the_3_myths.svg" alt="Description of art piece 4" class="gallery2-image" onclick="openMagnified('/images/the_3_myths.svg')">
     <p style="font-size: 0.9em; color: #fff;">Yet Another Masterpiece</p>
   </div>
 
   <div class="art-item">
-    <img src="/images/Eiffel_inferno.svg" alt="Description of art piece 5" class="small-image">
+    <img src="/images/Eiffel_inferno.svg" alt="Description of art piece 5" class="small-image" onclick="openMagnified('/images/Eiffel_inferno.svg')">
     <p style="font-size: 0.9em; color: #fff;">Something Different</p>
   </div>
 
   <div class="art-item">
-    <img src="/images/Night_eiffel.svg" alt="Description of art piece 6" class="small-image">
+    <img src="/images/Night_eiffel.svg" alt="Description of art piece 6" class="small-image" onclick="openMagnified('/images/Night_eiffel.svg')">
     <p style="font-size: 0.9em; color: #fff;">The Final Piece (for now)</p>
   </div>
 
@@ -154,3 +180,17 @@ redirect_from:
   {% endif %}
   {% include archive-single.html %}
 {% endfor %}
+
+<script>
+  function openMagnified(imgSrc) {
+    const magnifiedView = document.getElementById('magnified-view');
+    const magnifiedImage = document.getElementById('magnified-image');
+    magnifiedImage.src = imgSrc;
+    magnifiedView.style.display = 'flex'; // Use flex to center
+  }
+
+  function closeMagnified() {
+    const magnifiedView = document.getElementById('magnified-view');
+    magnifiedView.style.display = 'none';
+  }
+</script>
