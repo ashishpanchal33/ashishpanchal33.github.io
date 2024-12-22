@@ -141,7 +141,7 @@ Work experience
       </td>
     </tr>
     <tr>
-      <td style="bgcolor:black;padding: 0px 20px 0px 20px;vertical-align: middle;width: 15%;">
+      <td style=";padding: 0px 20px 0px 20px;vertical-align: middle;width: 15%;" bgcolor="black">
       <img src="https://www2.deloitte.com/content/dam/assets/logos/deloitte.svg" />
       </td>
       <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 25%;">
