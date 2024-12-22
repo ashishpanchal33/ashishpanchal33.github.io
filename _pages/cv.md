@@ -218,8 +218,6 @@ Military Experience
 </div>
 
 
-* Academics and Military Training (2013-2014) at the prestigious National Defence Academy (India)
-
 Honors, prizes, awards, and fellowships:
 ======
 * Project selected for CreateX startup lab, Georgia Institute of Technology (2022)
