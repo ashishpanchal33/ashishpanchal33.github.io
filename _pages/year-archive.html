@@ -122,18 +122,33 @@ redirect_from:
     max-height: 90%;
     object-fit: contain; /* Show entire image */
   }
+
+    /* Class for Items Spanning Two Columns */
+  .span-two {
+    grid-column: span 2;
+  }
+
+    /* Class for Items Spanning Two Columns */
+  .span-one {
+    grid-column: span 1;
+  }
+
+  .span-three {
+    grid-column: span 3;
+  }
+
   
 </style>
 
 
 <div class="gallery-container">
 
-  <div class="art-item text-left">
+  <div class="art-item text-left span-two">
     <img src="/images/Power.svg" alt="Description of art piece 1" class="gallery-image" onclick="openMagnified('/images/Power.svg')">
     <p style="font-size: 0.9em; color: #fff;"><b>The Silent Power</b>: </p>
   </div>
   
-  <div class="art-item text-right">
+  <div class="art-item text-right span-two">
     <img src="/images/Budha.svg" alt="Description of art piece 1" class="gallery-image" onclick="openMagnified('/images/Budha.svg')">
     <p style="font-size: 0.9em; color: #fff;">Title of Art 1</p>
   </div>
@@ -148,7 +163,7 @@ redirect_from:
     <p style="font-size: 0.9em; color: #fff;">[Artist Name] - [Year]</p>
   </div>
 
-  <div class="art-item text-right">
+  <div class="art-item text-right span-three">
     <img src="/images/the_3_myths.svg" alt="Description of art piece 4" class="gallery2-image" onclick="openMagnified('/images/the_3_myths.svg')">
     <p style="font-size: 0.9em; color: #fff;">Yet Another Masterpiece</p>
   </div>
