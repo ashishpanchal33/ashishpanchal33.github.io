@@ -181,8 +181,8 @@ Skills
 Projects and Publications
 ======
 
-Please refer [Projects | Publications](/publications/) page
-  <!--<ul>{% for post in site.publications reversed %}
+Please refer [Projects | Publications](/publications/) page.
+  <!--- <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> --->
 
