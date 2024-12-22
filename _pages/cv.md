@@ -145,7 +145,7 @@ Work experience
       <img src="https://www2.deloitte.com/content/dam/assets/logos/deloitte.svg" />
       </td>
       <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 25%;">
-      <b></b>
+      <b>Business Technology Analyst</b>
       <br>
       <a href="https://www2.deloitte.com/us/en.html" target="_blank">Deloitte US-India</a>
       <br>
