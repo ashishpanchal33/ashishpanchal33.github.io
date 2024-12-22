@@ -48,7 +48,17 @@ redirect_from:
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 15px;
-    background-color: rgba(1, 1, 1, 0.95);
+    /*background-color: rgba(1, 1, 1, 0.95);*/
+
+    background-image: repeating-linear-gradient(
+      90deg, /* Creates vertical stripes */
+      #f4c2c2 0px,
+      #f4c2c2 100px, /* Baby pink for 100px */
+      #e6e6fa 100px,
+      #e6e6fa 200px  /* Lavender for the next 100px */
+    );
+
+    
     padding: 15px;
   }
 
@@ -65,7 +75,7 @@ redirect_from:
 
   .art-item p {
     font-size: 0.9em;
-    color: #fff;
+    color: #333;
     margin-top: 5px; white-space: pre-line;
   }
 
