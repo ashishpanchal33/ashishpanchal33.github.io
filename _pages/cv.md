@@ -205,8 +205,7 @@ Military Experience
   <table><tbody>
     <tr>
       <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 15%;">
-      <img src="[https://www.isb.edu/content/dam/sites/diri/logo.png](https://media.licdn.com/dms/image/v2/C510BAQEY6paMVa-48Q/company-logo_200_200/company-logo_200_200/0/1630580440256/national_defence_academy_khadakvasla_logo?e=1743033600&v=beta&t=uY2lTAPkg6VyF118IWdR__PZoxVHizqLD6jy4OXmRho
-)" />
+      <img src="/images/NDA.jpeg" />
       </td>
       <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 80%;">
       <span style="float: right;">Jul. 2013 - Jul 2014</span>
