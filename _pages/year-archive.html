@@ -140,21 +140,6 @@ redirect_from:
   
 </style>
 
-<script>
-  function openMagnified(imgSrc) {
-    const magnifiedView = document.getElementById('magnified-view');
-    const magnifiedImage = document.getElementById('magnified-image');
-    magnifiedImage.src = imgSrc;
-    magnifiedView.style.display = 'flex'; // Use flex to center
-  }
-
-  function closeMagnified() {
-    const magnifiedView = document.getElementById('magnified-view');
-    magnifiedView.style.display = 'none';
-  }
-</script>
-
-
 
 
 <div class="gallery-container">
@@ -225,4 +210,16 @@ redirect_from:
   {% include archive-single.html %}
 {% endfor %}
 
+<script>
+  function openMagnified(imgSrc) {
+    const magnifiedView = document.getElementById('magnified-view');
+    const magnifiedImage = document.getElementById('magnified-image');
+    magnifiedImage.src = imgSrc;
+    magnifiedView.style.display = 'flex'; // Use flex to center
+  }
 
+  function closeMagnified() {
+    const magnifiedView = document.getElementById('magnified-view');
+    magnifiedView.style.display = 'none';
+  }
+</script>
