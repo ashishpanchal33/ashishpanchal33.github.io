@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * M.S. in Computer Science, Georgia Institute of Technology, 2024
+
 <ul>
 <ul>
   <li font-size: 0.75em>GPA: 3.8/4.0</li>
