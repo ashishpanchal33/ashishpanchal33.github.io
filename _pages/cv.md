@@ -13,8 +13,10 @@ Education
 ======
 * M.S. in Computer Science, Georgia Institute of Technology, 2024
 <ul>
+<ul>
   <li font-size: 0.75em>GPA: 3.8/4.0</li>
   <li font-size: 0.75em>Related courses: Reinforcement Learning, Deep Learning, Machine Learning, Artificial Intelligence, AI for Robotics, Game AI, Ethics in AI, Data & Visual Analytics, Graduate Algorithms</li>
+</ul>
 </ul>
 
    
