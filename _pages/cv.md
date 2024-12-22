@@ -138,7 +138,6 @@ Work experience
       <span style="float: right;">Jul. 2019 - Nov. 2021</span>
       <br>
       I translated business needs into analytical solutions, leading the development of end-to-end pipelines & improving existing models.  I hired & supervised data science team.
-
       </td>
     </tr>
     <tr>
