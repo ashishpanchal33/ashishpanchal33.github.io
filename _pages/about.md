@@ -35,7 +35,7 @@ At the moment I am working as a **Research Associate** at the **Indian School of
 To learn more about my recent explorations, please visit my [Projects](https://ashishpanchal33.github.io/publications/) page. 
 
 
-Update!
+<h3 id="update">Update!</h3>
 ======
 I am currently applying to PhD programs. 
 Please feel free to reach out if you believe we could be a great team!
