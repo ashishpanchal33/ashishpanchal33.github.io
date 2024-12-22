@@ -204,13 +204,13 @@ Military Experience
 <div style=" overflow: auto;" id="exp-div">  
   <table><tbody>
     <tr>
-      <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 10%;">
+      <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 15%;">
       <img src="/images/NDA.jpeg" />
       </td>
       <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 80%;">
       <span style="float: right;">Jul. 2013 - Jul 2014</span>
       <br>
-     Academics and Military Training (2013-2014) at the prestigious National Defence Academy (India)
+     Academics and Military Training at the prestigious National Defence Academy (India)
       </td>
     </tr>
   </tbody>
