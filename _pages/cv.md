@@ -21,6 +21,17 @@ Education
 
 Work experience
 ======
+ <table><tbody>
+    <tr>
+      <td class="all">
+        <heading>
+          <i class="fas fa-briefcase"></i>&nbsp;&nbsp;Experience<i class="fas fa-plus-square" style="float: right;" onclick="pressBtn(0)" id="exp-btn"></i>
+        </heading>
+      </td>
+    </tr>
+  </tbody></table>
+  <br>
+
 * Spring 2024: Academic Pages Collaborator
   * Github University
   * Duties includes: Updates and improvements to template
