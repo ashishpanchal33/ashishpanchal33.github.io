@@ -108,7 +108,7 @@ Work experience
       <br>
       <a href="https://moneyview.in/" target="_blank">MoneyView</a>
       <br>
-      Advisor: <a href="https://in.linkedin.com/in/antony-cherian-66500515">Antony Cherian</a>
+      Manager: <a href="https://in.linkedin.com/in/antony-cherian-66500515">Antony Cherian</a>
       </td>
       <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 60%;">
       <span style="float: right;">Nov. 2021 Feb. 2023</span>
