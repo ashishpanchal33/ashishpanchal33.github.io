@@ -9,35 +9,65 @@ redirect_from:
 
 {% include base_path %}
 
+
+
+<style>
+  .gallery-image {
+    max-width: 100%; /* Example: 90% of the container */
+    height: auto;
+    display: block; /* To prevent extra space below the image */
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .mid-image {
+    max-width: 80%; /* Example: 90% of the container */
+    height: auto;
+    display: block; /* To prevent extra space below the image */
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  
+  .small-image {
+    max-width: 60%; /* Example: 90% of the container */
+    height: auto;
+    display: block; /* To prevent extra space below the image */
+    margin-left: auto;
+    margin-right: auto;
+  }
+</style>
+
+
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px;">
 
   <div style="text-align: center;">
-    <img src="/images/Power.svg" alt="Description of art piece 1" style="max-width: 100%;">
+    <img src="/images/Power.svg" alt="Description of art piece 1" class="gallery-image">
     <p style="font-size: 0.9em; color: #555;">Title of Art 1</p>
   </div>
 
   <div style="text-align: center;">
-    <img src="/images/Momu.svg" alt="Description of art piece 2" style="max-width: 100%;">
+    <img src="/images/Momu.svg" alt="Description of art piece 2" class="small-image">
     <p style="font-size: 0.9em; color: #555;">Another Great Piece</p>
   </div>
 
   <div style="text-align: center;">
-    <img src="/images/baby_hands_momu.svg" alt="Description of art piece 3" style="max-width: 100%;">
+    <img src="/images/baby_hands_momu.svg" alt="Description of art piece 3" class="small-image">
     <p style="font-size: 0.9em; color: #555;">[Artist Name] - [Year]</p>
   </div>
 
   <div style="text-align: center;">
-    <img src="/images/the_3_myths.svg" alt="Description of art piece 4" style="max-width: 100%;">
+    <img src="/images/the_3_myths.svg" alt="Description of art piece 4" class="gallery-image">
     <p style="font-size: 0.9em; color: #555;">Yet Another Masterpiece</p>
   </div>
 
   <div style="text-align: center;">
-    <img src="/images/Eiffel_inferno.svg" alt="Description of art piece 5" style="max-width: 100%;">
+    <img src="/images/Eiffel_inferno.svg" alt="Description of art piece 5" class="small-image">
     <p style="font-size: 0.9em; color: #555;">Something Different</p>
   </div>
 
   <div style="text-align: center;">
-    <img src="/images/Night_eiffel.svg" alt="Description of art piece 6" style="max-width: 100%;">
+    <img src="/images/Night_eiffel.svg" alt="Description of art piece 6" class="small-image">
     <p style="font-size: 0.9em; color: #555;">The Final Piece (for now)</p>
   </div>
 
