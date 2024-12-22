@@ -1,6 +1,7 @@
 ---
 title: "External mechanism to prevent irreversible damage to hardware components of a cellular phone"
 collection: publications
+category: conference
 permalink: /publication/2015-06-13-paper-title-number-2
 date: 2015-06-13
 venue: ' IEEE, International Conference on Soft Computing Techniques Applications, 2015.'
