@@ -1,6 +1,7 @@
 ---
 title: "Mechanical movement aid to nerve damaged and parkinson’s using pressure frequency detection"
 collection: publications
+category: conference
 permalink: /publication/2015-12-11-paper-title-number-3
 date: 2015-12-11
 venue: 'IEEE, 4th International Conference on Communication and Signal Processing, 2015.'
