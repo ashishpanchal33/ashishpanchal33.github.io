@@ -84,7 +84,7 @@ Work experience
       <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 15%;">
       <img src="https://www.isb.edu/content/dam/sites/diri/logo.png" />
       </td>
-      <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 80%;">
+      <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 20%;">
       <b>Research Associate</b>
       <span style="float: right;">Feb. 2023 - present</span>
       <br>
@@ -92,7 +92,7 @@ Work experience
       <br>
       Advisor: <a href="https://www.isb.edu/en/research-thought-leadership/faculty/faculty-directory/vandith-pamuru.html">Dr. Vandith Pamuru</a>
       </td>
-      <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 80%;">
+      <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 60%;">
       Designed & documented research studies, created IRB transcripts. 
       Designed models and ran real-life & simulated experiments. Performed literature review, and Analysis. Additionally, hired & supervised 3 interns.
       </td>
