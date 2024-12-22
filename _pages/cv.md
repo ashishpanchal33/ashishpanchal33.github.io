@@ -238,6 +238,7 @@ Teaching:
 Selected Certifications:
 ======
 * Probability - The Science of Uncertainty and Data (2020) – MITx on Edx
+* Fundamentals of Statistics (2020) – MITx on Edx
 * Data Analysis in Social Science(2020) – MITx on Edx
 * Machine Learning with Python-From Linear Models to Deep Learning (2020) – MITx on Edx
 
