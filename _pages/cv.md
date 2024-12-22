@@ -9,6 +9,44 @@ redirect_from:
 
 {% include base_path %}
 
+
+
+<head>
+  <title>Ashish Panchal</title>
+
+
+  <link rel="stylesheet" type="text/css" href="assests/style.css">
+  <link rel="stylesheet" type="text/css" href="assests/academicons.min.css">
+  <script src="assests/fontawesome.js"></script>
+
+  <script>
+    function pressBtn(p) {
+
+      var id_btn=["exp-btn", "pub-btn"], class_btn=["fas fa-plus-square", "fas fa-minus-square"];
+      var id_div=["exp-div", "pub-div"], style_div=["height: 300px; overflow: auto;", "height: 400px; overflow: auto;"];
+
+      var btn = document.getElementById(id_btn[p]);
+      if(btn.className == class_btn[0]) {
+        btn.className = class_btn[1];
+        document.getElementById(id_div[p]).style = "";
+      }
+      else {
+        btn.className = class_btn[0];
+        document.getElementById(id_div[p]).style = style_div[p];
+      }
+    }
+
+    function img_hover(e, f) {
+      e.setAttribute("src", f);
+    }
+    function img_unhover(e, f) {
+      e.setAttribute("src", f);
+    }
+  </script>
+</head>
+
+
+
 Education
 ======
 * M.S. in Computer Science, Georgia Institute of Technology, 2024
