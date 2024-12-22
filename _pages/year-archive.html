@@ -152,7 +152,7 @@ redirect_from:
     <img src="/images/Budha.svg" alt="Description of art piece 1" class="gallery-image" onclick="openMagnified('/images/Budha.svg')">
     <p style="font-size: 0.9em; color: #fff;">Title of Art 1</p>
   </div>
-  <br>
+  
   <div class="art-item">
     <img src="/images/Momu.svg" alt="Description of art piece 2" class="small-image" onclick="openMagnified('/images/Momu.svg')">
     <p style="font-size: 0.9em; color: #fff;">Another Great Piece</p>
@@ -182,8 +182,9 @@ redirect_from:
 
 </div>
 
-
-
+<div id="magnified-view" onclick="closeMagnified()">
+  <img id="magnified-image" src="" alt="Magnified Image">
+</div>
 
 
 {% capture written_year %}'None'{% endcapture %}
