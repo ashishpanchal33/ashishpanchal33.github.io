@@ -235,7 +235,7 @@ Teaching:
 * Designed a course and taught Machine Learning, Data Science, and Python programming to new joinees at MoneyView (2021-2023)
 * Mentored second and third-year Bachelor of Engineering students on the practical implementation of industry-relevant projects (2014-2016)
 
-Selected Certification:
+Selected Certifications:
 ======
 * Probability - The Science of Uncertainty and Data (2020) – MITx on Edx
 * Data Analysis in Social Science(2020) – MITx on Edx
