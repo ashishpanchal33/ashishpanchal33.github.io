@@ -43,37 +43,96 @@ redirect_from:
     margin-left: auto;
     margin-right: auto;
   }
+
+  .gallery-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 15px;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 15px;
+  }
+
+  .art-item {
+    text-align: center; /* Default: text below */
+  }
+
+  .art-item img {
+    max-width: 100%;
+    display: block; /* To remove extra space below image */
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .art-item p {
+    font-size: 0.9em;
+    color: #fff;
+    margin-top: 5px;
+  }
+
+  .art-item.text-left {
+    display: flex;
+    align-items: center;
+    text-align: left;
+  }
+
+  .art-item.text-left img {
+    margin-right: 15px;
+    margin-left: 0;
+    max-width: 50%; /* Adjust as needed */
+  }
+
+  .art-item.text-left p {
+    margin-top: 0;
+  }
+
+  .art-item.text-right {
+    display: flex;
+    align-items: center;
+    text-align: right;
+    flex-direction: row-reverse;
+  }
+
+  .art-item.text-right img {
+    margin-left: 15px;
+    margin-right: 0;
+    max-width: 50%; /* Adjust as needed */
+  }
+
+  .art-item.text-right p {
+    margin-top: 0;
+  }
+  
 </style>
 
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); background-color: rgba(0, 0, 0, 0.7); gap: 5px;">
+<div class="gallery-container">
 
-  <div style="text-align: center;">
+  <div class="art-item text-left">
     <img src="/images/Power.svg" alt="Description of art piece 1" class="gallery-image">
     <p style="font-size: 0.9em; color: #fff;">Title of Art 1</p>
   </div>
 
-  <div style="text-align: center;">
+  <div class="art-item">
     <img src="/images/Momu.svg" alt="Description of art piece 2" class="small-image">
     <p style="font-size: 0.9em; color: #fff;">Another Great Piece</p>
   </div>
 
-  <div style="text-align: center;">
+  <div class="art-item">
     <img src="/images/baby_hands_momu.svg" alt="Description of art piece 3" class="small-image">
     <p style="font-size: 0.9em; color: #fff;">[Artist Name] - [Year]</p>
   </div>
 
-  <div style="text-align: center;">
+  <div class="art-item text-right">
     <img src="/images/the_3_myths.svg" alt="Description of art piece 4" class="gallery2-image">
     <p style="font-size: 0.9em; color: #fff;">Yet Another Masterpiece</p>
   </div>
 
-  <div style="text-align: center;">
+  <div class="art-item">
     <img src="/images/Eiffel_inferno.svg" alt="Description of art piece 5" class="small-image">
     <p style="font-size: 0.9em; color: #fff;">Something Different</p>
   </div>
 
-  <div style="text-align: center;">
+  <div class="art-item">
     <img src="/images/Night_eiffel.svg" alt="Description of art piece 6" class="small-image">
     <p style="font-size: 0.9em; color: #fff;">The Final Piece (for now)</p>
   </div>
