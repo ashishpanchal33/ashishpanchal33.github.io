@@ -11,9 +11,7 @@ redirect_from:
 
 
 
-
-
-  <script>
+<script>
     function pressBtn(p) {
 
       var id_btn=["exp-btn", "pub-btn"], class_btn=["fas fa-plus-square", "fas fa-minus-square"];
