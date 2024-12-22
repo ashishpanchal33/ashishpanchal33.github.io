@@ -93,6 +93,7 @@ Work experience
       </td>
       <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 50%;">
       <span style="float: right;">Feb. 2023 - present</span>
+      <br>
       Designed & documented research studies, created IRB transcripts. 
       Designed models and ran real-life & simulated experiments. Performed literature review, and Analysis. Additionally, hired & supervised 3 interns.
       </td>
@@ -111,6 +112,7 @@ Work experience
       </td>
       <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 50%;">
       <span style="float: right;">Feb. 2023 - present</span>
+      <br>
       Designed & documented research studies, created IRB transcripts. 
       Designed models and ran real-life & simulated experiments. Performed literature review, and Analysis. Additionally, hired & supervised 3 interns.
       </td>
