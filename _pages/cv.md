@@ -92,6 +92,10 @@ Work experience
       <br>
       Advisor: <a href="https://www.isb.edu/en/research-thought-leadership/faculty/faculty-directory/vandith-pamuru.html">Dr. Vandith Pamuru</a>
       </td>
+      <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 80%;">
+      Designed & documented research studies, created IRB transcripts. 
+      Designed models and ran real-life & simulated experiments. Performed literature review, and Analysis. Additionally, hired & supervised 3 interns.
+      </td>
     </tr>
   </tbody></table>
 </div>
