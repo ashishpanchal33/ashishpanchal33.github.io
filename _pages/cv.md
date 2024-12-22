@@ -137,7 +137,7 @@ Work experience
       <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 55%;">
       <span style="float: right;">Jul. 2019 - Nov. 2021</span>
       <br>
-      I translated business needs into analytical solutions, leading the development of end-to-end pipelines & improving existing models.  I hired & supervised data science team.
+      I translated business needs into analytical solutions, leading the development of end-to-end pipelines & improving existing models.  I hired & supervised the data science team.
       </td>
     </tr>
     <tr>
@@ -173,7 +173,10 @@ Skills
   * **Machine learning and Data Science toolkit**:  NLTK, Scikit-learn, SciPy, NumPy, Pandas, Sparks, Pyarrow, fastparquet
   * **Visualization Toolkit**: Matplotlib, Seaborn, Plotly, Dash(Plotly), Tableau
   * **App design**: Dash(Plotly), Flask
+  * Misc : Selenium
 * **Solution Design Experience**: Credit Risk Modeling, Social listening analysis, Fraud detection(fuzzy logic), Sales Forecasting, Market Mix Modeling, Demand forecasting, Attribution Modeling, Analytics Pipeline Design.
+* **Research Experience**: Literature review, Research Study and Experiment Design, Statistical Analysis, Meta-Analysis, IRB transcript and Project report writing.
+* **Management**: Project and Task planning, Call and Client management, Team management.
 
 Publications
 ======
@@ -182,6 +185,35 @@ Publications
   {% endfor %}</ul>
 
   
-Service and leadership
+Social Responsibility
 ======
-* Currently signed in to 43 different slack teams
+* NGO Volunteer - Environmental Synergies in Development (ENSYDE): Promoted e-waste awareness through booths at various conventions. (2017-present)
+* NGO Volunteer - Youth for Seva (YFS): Volunteered with YFS teaching children at government schools. (2018-present)
+* NGO Volunteer -  Youth For Parivarthan: Led community-driven initiatives to clean & revitalize public areas (2018-2022)
+
+Academic Volunteering and Coordination
+======
+* WITS conference volunteer (ISB): Event coordination and assistance. [Tracks: 1. ML/AI, 2. DEI, 3. Recommender systems] (2023)
+* WISE conference volunteer (ISB): Track coordinator [ 1. Platforms and Misinformation, 2. AI and governance] (2023)
+* Nvidia Lab Coordinator (AIT): Coordinated Nvidia CUDA programming workshops for students along, and Collaborated with Industry professionals  (2015)
+
+Military Experience
+======
+* Academics and Military Training (2013-2014) at the prestigious National Defence Academy (India)
+
+Honors, prizes, awards, and fellowships:
+======
+* Project selected for CreateX startup lab, Georgia Institute of Technology (2022)
+* Star of the Quarter, Quantzig, Awarded by HOD for exceptional project delivery (2020)
+* Super Star Award, Quantzig, Awarded by VP for exceptional yearly contribution (2020)
+* Spot Award, Deloitte USI, Awarded by HOD (2019)
+* Recommended for Officers Training Academy (Indian Army - Engg.) All-India-Rank: 13 (2018)
+* AGIF Scholarship (Award for academic excellence), Army Institute of Technology, (2015)
+* Recommended for National Defence Academy(Indian Army) All-India-Rank: 107 (of ~ 400,000 applicants) (2013)
+
+Teaching:
+======
+* Designed a course and taught Machine Learning, Data Science, and Python programming to new joinees at MoneyView (2021-2023)
+* Mentored second and third-year Bachelor of Engineering students on the practical implementation of industry-relevant projects (2014-2016)
+
+
