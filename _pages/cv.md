@@ -50,36 +50,53 @@ Education
   + <span style="font-size: 0.75em">GPA: 3.561/4.0, (AGIF Scholarship Recipient)</span>
   + <span style="font-size: 0.75em">Related courses: Soft Computing, Internet of things, Information Theory, System Programming and Microcontrollers</span>
 
+
+<!-- adding td
+td {
+  padding: 0px 20px 0px 20px;
+  vertical-align: middle;
+}
+td.all {
+  width: 100%;
+}
+td.exp-avatar {
+  width: 15%;
+}
+td.exp-description {
+  width: 80%;
+}
+td.pub-avatar {
+  width: 30%;
+}
+td.pub-description {
+  width: 65%;
+}--> 
+
+
+
+
+
+
+
 Work experience
 ======
- <table><tbody>
+<div style="height: 300px; overflow: auto;" id="exp-div">
+  <table><tbody>
     <tr>
-      <td class="all">
-        <heading>
-          <i class="fas fa-briefcase"></i>&nbsp;&nbsp;Experience<i class="fas fa-plus-square" style="float: right;" onclick="pressBtn(0)" id="exp-btn"></i>
-        </heading>
+      <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 15%;">
+      <img src="https://www.isb.edu/content/dam/sites/diri/logo.png" />
+      </td>
+      <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 80%;">
+      <b>Research Associate</b>
+      <span style="float: right;">Feb. 2023 - present</span>
+      <br>
+      <a href="www.isb.edu" target="_blank">Indian School of Business</a>
+      <br>
+      Advisor: <a href="https://www.isb.edu/en/research-thought-leadership/faculty/faculty-directory/vandith-pamuru.html">Dr. Vandith Pamuru</a>
       </td>
     </tr>
   </tbody></table>
-  <br>
-    <div style="height: 300px; overflow: auto;" id="exp-div">
-    <table><tbody>
-      <tr>
-        <td class="exp-avatar">
-          <img src="https://www.isb.edu/content/dam/sites/diri/logo.png" />
-        </td>
-        <td class="exp-description">
-          <b>Research Associate</b>
-          <span style="float: right;">Feb. 2023 - present</span>
-          <br>
-          <a href="www.isb.edu" target="_blank">Indian School of Business</a>
-          <br>
-          Advisor: <a href="https://www.isb.edu/en/research-thought-leadership/faculty/faculty-directory/vandith-pamuru.html">Dr. Vandith Pamuru</a>
-        </td>
-      </tr>
-    </tbody></table>
-    </div>
-
+</div>
 
 
 
