@@ -78,7 +78,8 @@ td.pub-description {
 
 Work experience
 ======
-<div style="height: 600px; overflow: auto;" id="exp-div">
+<!--- <div style="height: 600px; overflow: auto;" id="exp-div"> --->
+<div style=" overflow: auto;" id="exp-div">  
   <table><tbody>
     <tr>
       <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 15%;">
