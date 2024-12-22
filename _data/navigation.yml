@@ -15,7 +15,7 @@ main:
     url: /cv/
 
   - title: "Updates"
-    url: /about/#update
+    url: /about#update
 
   #- title: "Talks"
   #  url: /talks/    
