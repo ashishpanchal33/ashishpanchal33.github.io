@@ -95,8 +95,10 @@ Work experience
       <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 55%;">
       <span style="float: right;">Feb. 2023 - present</span>
       <br>
-      Designed & documented research studies, created IRB transcripts. 
-      Designed models and ran real-life & simulated experiments. Performed literature review, and Analysis. Additionally, hired & supervised 3 interns.
+      Designed & documented research studies, and created IRB transcripts. 
+      Designed models and ran real-life & simulated experiments. Performed literature review, and Analysis. Additionally, I hired & supervised 3 interns.
+      <br>
+      I focused on adaptive decision-making in complex social situations. My work includes developing A2C-DT, a novel reinforcement learning model demonstrating an 86% win rate in strategic game environments, resulting in an AAMAS 2025 submission. I'm also conducting an empirical study using real-world business data, targeting IJOC, and a VR-based human negotiation study, targeting JOB
       </td>
     </tr>
     <br>
@@ -114,8 +116,7 @@ Work experience
       <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 55%;">
       <span style="float: right;">Nov. 2021 - Feb. 2023</span>
       <br>
-      Designed & documented research studies, created IRB transcripts. 
-      Designed models and ran real-life & simulated experiments. Performed literature review, and Analysis. Additionally, hired & supervised 3 interns.
+      I designed and deployed data science solutions to understand and mitigate risk in the Indian credit market, focusing on improving lending policies and customer service.
       </td>
     </tr>
     <tr>
@@ -136,8 +137,8 @@ Work experience
       <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 55%;">
       <span style="float: right;">Jul. 2019 - Nov. 2021</span>
       <br>
-      Designed & documented research studies, created IRB transcripts. 
-      Designed models and ran real-life & simulated experiments. Performed literature review, and Analysis. Additionally, hired & supervised 3 interns.
+      I translated business needs into analytical solutions, leading the development of end-to-end pipelines & improving existing models.  I hired & supervised data science team.
+
       </td>
     </tr>
     <tr>
@@ -156,8 +157,7 @@ Work experience
       <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 55%;">
       <span style="float: right;">Jun. 2017 - Jul. 2019</span>
       <br>
-      Designed & documented research studies, created IRB transcripts. 
-      Designed models and ran real-life & simulated experiments. Performed literature review, and Analysis. Additionally, hired & supervised 3 interns.
+      My work focused on developing and implementing data-driven solutions. For a major gaming company, I performed extensive performance analysis, leveraging key metrics and event logs to assess availability, reliability, and performance.
       </td>
     </tr>
 
