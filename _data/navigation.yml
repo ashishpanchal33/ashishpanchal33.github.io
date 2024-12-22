@@ -11,11 +11,11 @@ main:
   - title: "Projects | Publications (WIP)"
     url: /publications/
     
-  - title: "Experiences | CV (WIP)"
+  - title: "Experiences | CV"
     url: /cv/
 
-  - title: "Updates"
-    url: /about#update
+  #- title: "Updates"
+  #  url: /about#update
 
   #- title: "Talks"
   #  url: /talks/    
