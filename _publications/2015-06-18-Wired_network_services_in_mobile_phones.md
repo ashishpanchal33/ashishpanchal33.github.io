@@ -2,7 +2,7 @@
 title: "Wired network services in mobile phones"
 collection: publications
 category: conference
-permalink: /publication/2015-06-18-paper-title-number-4
+permalink: /publication/2015-06-18-Wired_network_services_in_mobile_phones
 date: 2015-06-18
 venue: 'IEEE, 2nd International Conference Electronics and Communication Systems, 2015'
 paperurl: 'https://ashishpanchal33.github.io/files/Wired_network_services_in_mobile_phones.pdf'
