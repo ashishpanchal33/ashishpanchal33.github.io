@@ -1,6 +1,7 @@
 ---
 title: "Wired network services in mobile phones"
 collection: publications
+category: conference
 permalink: /publication/2015-06-18-paper-title-number-4
 date: 2015-06-18
 venue: 'IEEE, 2nd International Conference Electronics and Communication Systems, 2015'
