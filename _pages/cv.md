@@ -160,11 +160,6 @@ Work experience
       </td>
     </tr>
 
-
-
-
-
-
     
   </tbody></table>
 </div>
@@ -172,12 +167,13 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming languages**:  Python, C#, R, Cuda
+* **Programming Tools and Libraries**:
+  * **Reinforcement Learning and Deep Learning**: Transformers(Huggingface), Stable-Baselines3, ClearnRL, Pytorch, Tensorboard, Pettingzoo, Gymnasium(OpenAI Gym) 
+  * **Machine learning and Data Science toolkit**:  NLTK, Scikit-learn, SciPy, NumPy, Pandas, Sparks, Pyarrow, fastparquet
+  * **Visualization Toolkit**: Matplotlib, Seaborn, Plotly, Dash(Plotly), Tableau
+  * **App design**: Dash(Plotly), Flask
+* **Solution Design Experience**: Credit Risk Modeling, Social listening analysis, Fraud detection(fuzzy logic), Sales Forecasting, Market Mix Modeling, Demand forecasting, Attribution Modeling, Analytics Pipeline Design.
 
 Publications
 ======
