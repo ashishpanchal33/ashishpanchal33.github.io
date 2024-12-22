@@ -62,6 +62,30 @@ Work experience
     </tr>
   </tbody></table>
   <br>
+    <div style="height: 300px; overflow: auto;" id="exp-div">
+    <table><tbody>
+      <tr>
+        <td class="exp-avatar">
+          <img src="https://www.isb.edu/content/dam/sites/diri/logo.png" />
+        </td>
+        <td class="exp-description">
+          <b>Research Associate</b>
+          <span style="float: right;">Feb. 2023 - present</span>
+          <br>
+          <a href="www.isb.edu" target="_blank">Indian School of Business</a>
+          <br>
+          Advisor: <a href="https://www.isb.edu/en/research-thought-leadership/faculty/faculty-directory/vandith-pamuru.html">Dr. Vandith Pamuru</a>
+        </td>
+      </tr>
+    </tbody></table>
+    </div>
+
+
+
+
+
+
+  
 
 * Spring 2024: Academic Pages Collaborator
   * Github University
