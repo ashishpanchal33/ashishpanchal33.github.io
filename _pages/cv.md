@@ -84,14 +84,14 @@ Work experience
       <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 15%;">
       <img src="https://www.isb.edu/content/dam/sites/diri/logo.png" />
       </td>
-      <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 30%;">
+      <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 20%;">
       <b>Research Associate</b>
       <br>
       <a href="www.isb.edu" target="_blank">Indian School of Business</a>
       <br>
       Advisor: <a href="https://www.isb.edu/en/research-thought-leadership/faculty/faculty-directory/vandith-pamuru.html">Dr. Vandith Pamuru</a>
       </td>
-      <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 50%;">
+      <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 60%;">
       <span style="float: right;">Feb. 2023 - present</span>
       <br>
       Designed & documented research studies, created IRB transcripts. 
@@ -101,17 +101,17 @@ Work experience
     <br>
     <tr>
       <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 15%;">
-      <img src="https://www.isb.edu/content/dam/sites/diri/logo.png" />
+      <img src="https://moneyview.in/images/mv-green-logo-v3Compressed.svg" />
       </td>
-      <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 30%;">
-      <b>Research Associate</b>
+      <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 20%;">
+      <b>Senior Data Scientist</b>
       <br>
-      <a href="www.isb.edu" target="_blank">Indian School of Business</a>
+      <a href="https://moneyview.in/" target="_blank">MoneyView</a>
       <br>
-      Advisor: <a href="https://www.isb.edu/en/research-thought-leadership/faculty/faculty-directory/vandith-pamuru.html">Dr. Vandith Pamuru</a>
+      Advisor: <a href="https://in.linkedin.com/in/antony-cherian-66500515">Antony Cherian</a>
       </td>
-      <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 50%;">
-      <span style="float: right;">Feb. 2023 - present</span>
+      <td style="padding: 0px 20px 0px 20px;vertical-align: middle;width: 60%;">
+      <span style="float: right;">Nov. 2021 Feb. 2023</span>
       <br>
       Designed & documented research studies, created IRB transcripts. 
       Designed models and ran real-life & simulated experiments. Performed literature review, and Analysis. Additionally, hired & supervised 3 interns.
