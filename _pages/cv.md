@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-
+Download [Academic CV](/files/CV_Ashish_Panchal_acad.pdf) or [Professional CV (last updated Dec 23)](files/CV_Ashish%20Panchal_prof.pdf)
 
 <script>
     function pressBtn(p) {
