@@ -26,7 +26,7 @@ Grok brain want **map**. Map tell:
 * “If Grok at this place and do that move, how much meat now + later?” This is **Q-map**.
 * From map, Grok make **rule** (policy): “When here, do this.”
 
-At start map blank. Grok must fill from watching Ugg.
+At start map blank. Grok must fill from watching Ugg. Ugg path bright when more meat now + later.
 
 ---
 
