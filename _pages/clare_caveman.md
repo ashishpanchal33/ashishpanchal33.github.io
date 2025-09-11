@@ -117,15 +117,9 @@ Grok happy. Map smarter. Grok no drown.
 
 ---
 
-## 🔁 **8. Full Loop**  
+## 🔁 **8. Visual Hint : Full Loop**  
 👀 Watch old paths → 📝 Update reward → 🧠 Update plan → 🏹 Imagine new → 🔄 Repeat.  
 Like hunt → eat → sleep → hunt.  
-
----
-
-## 📊 **9. Visual Hint**  
-Emoji diagram:  
-👀➡️📝➡️🧠➡️🏹➡️🍖  
 
 ---
 
