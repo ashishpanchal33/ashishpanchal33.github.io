@@ -60,3 +60,11 @@ To that extent, I am fascinated by alternative constructs to model decision-maki
 - Mixture of Experts ensemble instead of a single agent.
 - Von Neumann probability theory to model suboptimal outcomes as a result of multiple optimal strategy superposition.
 <small>(basically, whatever it takes to get things done)</small>
+
+
+
+<h3 id="caveman">Caveman Lessons</h3>
+
+- Update IQ_learn_caveman.md
+
+
