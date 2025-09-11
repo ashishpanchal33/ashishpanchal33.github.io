@@ -42,7 +42,7 @@ All old ways no handle **distribution shift problem**. Old ways greedy and overc
 
 ## 🏹 **4. Big Idea (CLARE Connection to MaxEnt IRL)**
 
-CLARE build on **Maximum Entropy Inverse Reinforcement Learning** foundation! MaxEnt IRL say: "Find reward function that make expert look best, but also allow some randomness for exploration" 🎯
+CLARE build on **Maximum Entropy Inverse Reinforcement Learning** foundation! MaxEnt IRL say: "Find reward function that make expert (Ugg) look best, but also allow some randomness for exploration (if many reward function make Ugg look best, choose one with the least commitment)" 🎯
 
 **MaxEnt IRL Base Formula:**
 $$\min_{r\in \mathcal{R}} \max_{\pi} H(\pi) + \mathbb{E}_{(s,a)\sim \pi}[r(s,a)] - \mathbb{E}_{(s,a)\sim \mathcal{D}_E}[r(s,a)] + \Omega(r)$$
