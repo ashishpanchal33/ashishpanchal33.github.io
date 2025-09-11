@@ -65,6 +65,6 @@ To that extent, I am fascinated by alternative constructs to model decision-maki
 
 <h3 id="caveman">Caveman Lessons</h3>
 
-- Update IQ_learn_caveman.md
+- [IQ-Learn](/files/IQ_learn_caveman.md) 
 
 
