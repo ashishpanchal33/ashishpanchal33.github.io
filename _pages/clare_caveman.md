@@ -60,7 +60,7 @@ Grok balance:
 5. 🔥 **Update reward carefully**  
    Grok make reward bigger for expert, smaller for fake steps:  
    $$\mathcal{L}(r|\pi) = \mathbb{E}_{(s,a)\sim \hat{\rho}_\pi}[r(s,a)] - \mathbb{E}_{(s,a)\sim \tilde{E}}[r(s,a)] - \mathbb{E}_{(s,a)\sim \tilde{D}}[\omega(s,a)r(s,a)] + \Omega(r)$$  
-   Caveman words: “Add good, subtract bad, punish fake.”  
+   Caveman words: “subtract bad, Add good, punish fake” (minimize L)   
 
 6. 🧠 **Update brain policy**  
    Grok pick new plan $$\pi$$ to get more shiny rock under new reward.  
