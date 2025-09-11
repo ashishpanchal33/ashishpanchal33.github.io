@@ -51,11 +51,12 @@ To learn more about my recent explorations, please visit my [Projects](https://a
 Some Garble Jarble
 ======
 Why do I believe in adaptive solutions?
-Simply because a one-size-fits-all approach to finding optimal strategies may be insufficient or even counterproductive in the face of changing circumstances, diverse needs, and evolving social norms.
+Simply because a one-size-fits-all approach to finding optimal strategies might be insufficient or even counterproductive in the face of changing circumstances, diverse needs, and evolving social norms. (TLDR: world is evolving, so should our solutions)
 
-Is adaptive decision-making the only goal of my journey?
+Is adaptive social equity the only goal of my journey?
 No, I expect my goals and journey to evolve. However, outcome optimization is a core principle I strongly believe in, and one that will likely guide me for years to come. These outcomes can be driven by multiple objectives. For instance, increasing profitability and equity for a product company are not mutually exclusive.
 
-To that extent, I am fascinated by alternative constructs to model decision-making.
-
-
+To that extent, I am fascinated by alternative constructs to model decision-making; Such as:
+- Mixture of Experts ensemble instead of a single agent.
+- Von Neumann probability theory to model suboptimal outcomes as a result of multiple optimal strategy superposition.
+<small>(basically, whatever it takes to get things done)</small>
