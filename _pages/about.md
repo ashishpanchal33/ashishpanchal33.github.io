@@ -89,7 +89,7 @@ To that extent, I am fascinated by alternative constructs to model decision-maki
 
 <details>
   <summary style="cursor:pointer; padding:8px 12px; border-radius:6px; border:1px solid #bbb; display:inline-block;">
-    <small>- 🪓 CLARE (Story of Grok and Elder Ugg) </small>
+    <small>- 🪓 CLARE a saga: Caveman Learn Reward Without Dying in Fake Valley </small>
   </summary>
 
   <div style="margin-top:0.75rem; border:1px solid #ddd; padding:18px; border-radius:8px; background:#fbfbfb;">
