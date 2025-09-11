@@ -65,6 +65,24 @@ To that extent, I am fascinated by alternative constructs to model decision-maki
 
 <h3 id="caveman">Caveman Lessons</h3>
 
-- [🪓 IQ-Learn (Story of Grok and Elder Ugg)](/files/IQ_learn_caveman.md) 
+- [🪓 IQ-Learn (Story of Grok and Elder Ugg)](/files/IQ_learn_caveman.md)
+
+{% capture caveman_content %}
+  {% include_relative IQ_learn_caveman.md %}
+{% endcapture %}
+
+<details>
+  <summary style="cursor:pointer; padding:8px 12px; border-radius:6px; border:1px solid #bbb; display:inline-block;">
+    Read IQ Learn — Caveman
+  </summary>
+
+  <div style="margin-top:0.75rem; border:1px solid #ddd; padding:18px; border-radius:8px; background:#fbfbfb;">
+    {{ caveman_content | markdownify }}
+  </div>
+</details>
+
+
+
+
 
 
