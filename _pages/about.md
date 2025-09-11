@@ -20,8 +20,10 @@ At the moment I am working as a **Research Associate** at the **Indian School of
 
 <h3 >Research Insterests</h3>
 
-I am inspired to design generalisable, expressive decision-making frameworks for sequential socio-economic settings. I aim to improve AI agents’ adaptability in human–AI collaboration through reinforcement learning and complementary methods, and data-driven models that capture complex, context-dependent human behaviour.
+<p style="text-align: justify;"> I am inspired to design generalisable, expressive decision-making frameworks for sequential socio-economic settings. I aim to improve AI agents’ adaptability in human–AI collaboration through reinforcement learning and complementary methods, and data-driven models that capture complex, context-dependent human behaviour.</p>
 
+<p style="text-align: justify;"> Keywords/key-phrases: Social Reinforcement learning, Agentic AI, Sequential social dilemma, Human-AI collaboration, mixed/adaptive motive multi-agent setting.
+  </p>
 <!-- 
 <p style="text-align: justify;"> I am interested in AI's potential to navigate social settings. My primary focus is on real-world interactions, where AI can help us make socially conscious decisions while mitigating harmful societal influences. Furthermore, through autonomous AI decision-making, I aim to augment human capabilities in managing situations beyond our control, such as interactions with other AI agents or unpredictable environmental events.</p>
 
@@ -46,12 +48,14 @@ To learn more about my recent explorations, please visit my [Projects](https://a
 - [04-26-2025] Submitted our paper: IEEE Access journal "Inducing Persona in Negotiations Between Agents in Generative AI Applications: Exploring Vulnerabilities and Emergent Dynamics"
 - [12-23-2024] My paper got accepted at AAAI-25 MARW workshop: "Unraveling Complex Sequential Social Dilemmas: In a Risky World with A2C Decision Transformer" 
 
-Note
+Some Garble Jarble
 ======
-Why do I believe in adaptive equity?
-Simply because a one-size-fits-all approach to fairness may be insufficient or even counterproductive in the face of changing circumstances, diverse needs, and evolving social norms.
+Why do I believe in adaptive solutions?
+Simply because a one-size-fits-all approach to finding optimal strategies may be insufficient or even counterproductive in the face of changing circumstances, diverse needs, and evolving social norms.
 
-Is adaptive equity the only goal of my journey?
+Is adaptive decision-making the only goal of my journey?
 No, I expect my goals and journey to evolve. However, outcome optimization is a core principle I strongly believe in, and one that will likely guide me for years to come. These outcomes can be driven by multiple objectives. For instance, increasing profitability and equity for a product company are not mutually exclusive.
+
+To that extent, I am fascinated by alternative constructs to model decision-making.
 
 
