@@ -257,22 +257,22 @@ Grok: “Delta small 0.053 — Q a bit higher than future-implied value.”
 
 Grok uses simple χ²-like φ for demo (paper allows choices). For numeric clarity, choose same simple loss as before:
 
-Loss $L = -\delta + c\delta^2$, with $c=\tfrac{1}{4\alpha}$. Pick $\alpha=0.5 \Rightarrow c=0.5$.
+Loss $$L = -\delta + c\delta^2$$, with $$c=\tfrac{1}{4\alpha}$$. Pick $$\alpha=0.5 \Rightarrow c=0.5$$.
 
 Compute:
 
-* $\delta = 0.053$.
-* $\delta^2 = 0.053^2 = 0.002809$ (0.002809 rounded).
-* $c\delta^2 = 0.5 × 0.002809 = 0.0014045 ≈ 0.001$ (3-decimals → **0.001**).
-* $L = -0.053 + 0.001 = \mathbf{-0.052}$.
+* $$\delta = 0.053$$.
+* $$\delta^2 = 0.053^2 = 0.002809$$ (rounded).
+* $$c\delta^2 = 0.5 × 0.002809 = 0.0014045 ≈ 0.001$$ (3-decimals → **0.001**).
+* $$L = -0.053 + 0.001 = \mathbf{-0.052}$$.
 
-Gradient (w\.r.t Q) derivative: $dL/dQ = -1 + 2c\delta = -1 + 1×0.053 = -0.947$ (since 2c=1).
-Grok uses learning rate $\eta = 0.10$.
+Gradient (w\.r.t Q) derivative: $$dL/dQ = -1 + 2c\delta = -1 + 1×0.053 = -0.947$$ (since 2c=1).
+Grok uses learning rate $$\eta = 0.10$$.
 
 Update:
 
-* $\Delta Q = -\eta \cdot dL/dQ = -0.10 × (-0.947) = +0.0947 ≈ 0.095.$
-* New $Q(s1,a1) = 1.200 + 0.095 = \mathbf{1.295}$.
+* $$\Delta Q = -\eta \cdot dL/dQ = -0.10 × (-0.947) = +0.0947 ≈ 0.095.$$
+* New $$Q(s1,a1) = 1.200 + 0.095 = \mathbf{1.295}$$.
 
 Grok: “Online update: Q for (s1,a1) rises from 1.200 → **1.295**. Map now favors Ugg’s move a1 a bit more.”
 
