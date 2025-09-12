@@ -7,9 +7,9 @@
 
 Long ago, Grok the caveman live in big valley with many places to go 🏞️. Valley has **Cave**, **River**, **Forest**, **Danger Rocks**. Grok can **stay**, **move**, **hunt**, **jump over rock**, **sit by fire** 🔥. Each move take Grok to new place in valley.
 
-Elder Ugg the wise hunter show Grok good paths through valley - these **Old hunter paths** (expert data $D_E$) very precious! 🗺️ Elder very smart! Know which way safe, which way get meat fast 🍖. But Elder only show few paths - not show ALL places in big valley.
+Elder Ugg the wise hunter show Grok good paths through valley - these **Old hunter paths** (expert data $$D_E$$) very precious! 🗺️ Elder very smart! Know which way safe, which way get meat fast 🍖. But Elder only show few paths - not show ALL places in big valley.
 
-But Grok also see **Silly hunter paths** from other cavemen who not so smart (bad data $D_B$) 🤪. These cavemen make dumb moves, fall in holes, get chased by angry mammoth! Their paths show Grok what NOT to do.
+But Grok also see **Silly hunter paths** from other cavemen who not so smart (bad data $$D_B$$) 🤪. These cavemen make dumb moves, fall in holes, get chased by angry mammoth! Their paths show Grok what NOT to do.
 
 **BIG PROBLEM:** Grok cannot walk valley now (offline learning)! Cave sealed by rockslide! 🪨 If Grok guess wrong about valley rules, Grok drown in river or get eaten by saber-tooth tiger! Grok must learn reward rules from old paths without dying. This very dangerous!
 
@@ -17,7 +17,7 @@ When Grok try go to new place Elder never show, Grok brain get confused 😵. Th
 
 ## 🧠 **2. What Brain Do?**
 
-Grok brain want learn **rule for shiny rock** (reward function $r(s,a)$) 💎. If Grok know rule, Grok can plan perfect hunt! Brain learn from watching Elder Ugg walk smart paths and silly cavemen walk dumb paths.
+Grok brain want learn **rule for shiny rock** (reward function $$r(s,a)$$) 💎. If Grok know rule, Grok can plan perfect hunt! Brain learn from watching Elder Ugg walk smart paths and silly cavemen walk dumb paths.
 
 Grok brain not just copy Elder. Brain try guess WHY Elder choose path and WHY silly cavemen choose wrong path. Elder get reward - maybe find meat, avoid snake, reach warm cave. Silly cavemen get punishment - fall in hole, get stung by bees!
 
@@ -64,10 +64,10 @@ CLARE balance three wisdom sources:
 ## 📜 **5. How It Works (Step by Step)**
 
 🪓 **Step 1:** Grok collect old paths from valley
-Grok take **expert steps** (good hunter paths $D_E$) and **silly steps** (bad hunter paths $D_B$). Write everything on cave wall! 📝
+Grok take **expert steps** (good hunter paths $$D_E$$) and **silly steps** (bad hunter paths $$D_B$$). Write everything on cave wall! 📝
 
 🔍 **Step 2:** Build fake valley model  
-Grok make pretend valley in brain using all data. Learn **dynamics model** $\hat{T}(s'|s,a)$ that predict "if Grok here and do this, where Grok go next?"
+Grok make pretend valley in brain using all data. Learn **dynamics model** $$\hat{T}(s'|s,a)$$ that predict "if Grok here and do this, where Grok go next?"
 $$T̂(s'|s,a) = \text{Fake valley transition model}$$
 Model learn from both smart and silly paths to understand valley rules.
 
