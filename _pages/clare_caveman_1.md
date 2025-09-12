@@ -21,7 +21,7 @@ Grok brain want learn **rule for shiny rock** (reward function $$r(s,a)$$) 💎.
 
 Grok brain not just copy Elder. Brain try guess WHY Elder choose path and WHY silly cavemen choose wrong path. Elder get reward - maybe find meat, avoid snake, reach warm cave. Silly cavemen get punishment - fall in hole, get stung by bees!
 
-But valley big and Grok cannot explore! So Grok build **fake valley in head** (dynamics model $\hat{T}$) 🧠. Grok imagine new paths in dream. Grok use both real old paths and fake dream paths to make plan without leaving cave.
+But valley big and Grok cannot explore! So Grok build **fake valley in head** (dynamics model $$\hat{T}$$) 🧠. Grok imagine new paths in dream. Grok use both real old paths and fake dream paths to make plan without leaving cave.
 
 Brain keep reward map (tell what good) and action policy (tell what do). But brain must be very careful - fake valley might lie! 🤥
 
@@ -75,7 +75,7 @@ Model learn from both smart and silly paths to understand valley rules.
 Grok make initial guess for reward function $r(s,a)$. Start with "all places same" - very dumb guess! 🤷‍♂️
 
 ⚖️ **Step 4:** Compute weight for each step  
-Grok assign **trust weight** $\omega(s,a)$ for every place and action. Expert steps get heavy weight (trust much!), silly steps get light weight, fake dream steps get penalty weight!
+Grok assign **trust weight** $$\omega(s,a)$$ for every place and action. Expert steps get heavy weight (trust much!), silly steps get light weight, fake dream steps get penalty weight!
 $$\omega(s,a) = \begin{cases} 1.0, & \text{if expert data} \\ 0.5, & \text{if silly data} \\ -0.2, & \text{if fake valley hallucination} \end{cases}$$
 Weight tell brain: "Expert step heavy, silly step light, fake step dangerous!"
 
@@ -90,7 +90,7 @@ $$\max_\pi \mathbb{E}_{(s,a) \sim \pi}[r(s,a)] + \alpha H(\pi)$$
 Policy learn "given new reward map, what best thing to do in each place?"
 
 🏹 **Step 7:** Roll in fake valley carefully  
-Grok use policy $\pi$ to imagine new steps with fake valley model $\hat{T}$. Generate rollout data $\hat{\rho}_\pi$, but apply conservative penalties! No trust fake valley too much!
+Grok use policy $$\pi$$ to imagine new steps with fake valley model $$\hat{T}$$. Generate rollout data $$\hat{\rho}_\pi$$, but apply conservative penalties! No trust fake valley too much!
 
 🔄 **Step 8:** Repeat many moons until convergence
 Hunt → Learn → Hunt → Learn. Each cycle make reward more accurate and policy more clever. Like sharpening stone axe - each pass make it sharper! ⭐
@@ -131,25 +131,25 @@ Grok find simple valley with 2 spots: **Cave (C)** and **River (R)**. Two action
 **Silly Data:** Dumb caveman show River+Stay=terrible, River+Move=disaster!
 
 **Initial Setup:**
-- Start reward guess: $r(C,S)=0.00$, $r(C,M)=0.00$, $r(R,S)=0.00$, $r(R,M)=0.00$ 
+- Start reward guess: $$r(C,S)=0.00$$, $$r(C,M)=0.00$$, $$r(R,S)=0.00$$, $$r(R,M)=0.00$$ 
 - Weights: expert=1.0, silly=0.5, fake penalty=0.2
 
 **Round 1 - First Learning:**
-Expert data says $(C,S)$ good: add +0.10 → $r(C,S) = 0.10$  
-Silly data says $(R,S)$ bad: subtract 0.05 → $r(R,S) = -0.05$  
-Fake valley suggests $(C,M)$ might be good: subtract penalty 0.02 → $r(C,M) = -0.02$
+Expert data says $$(C,S)$$ good: add +0.10 → $$r(C,S) = 0.10$$ 
+Silly data says $$(R,S)$$ bad: subtract 0.05 → $$r(R,S) = -0.05$$  
+Fake valley suggests $$(C,M)$$ might be good: subtract penalty 0.02 → $$r(C,M) = -0.02$$
 
 **Updated Rewards after Round 1:**
-$r(C,S) = 0.10$, $r(C,M) = -0.02$, $r(R,S) = -0.05$, $r(R,M) = 0.00$
+$$r(C,S) = 0.10$$, $$r(C,M) = -0.02$$, $$r(R,S) = -0.05$$, $$r(R,M) = 0.00$$
 
 **Round 2 - Policy Gets Smarter:**
 New policy prefers Cave+Stay (highest reward). Policy generates more fake rollouts.  
-Expert $(C,S)$: add +0.08 → $r(C,S) = 0.18$  
-Fake valley $(C,M)$: subtract 0.03 → $r(C,M) = -0.05$  
-Silly $(R,S)$: subtract 0.02 → $r(R,S) = -0.07$
+Expert $$(C,S)$$: add +0.08 → $$r(C,S) = 0.18$$  
+Fake valley $$(C,M)$$: subtract 0.03 → $$r(C,M) = -0.05$$ 
+Silly $$(R,S)$$: subtract 0.02 → $$r(R,S) = -0.07$$
 
 **Final Rewards after Round 2:**
-$r(C,S) = 0.18$, $r(C,M) = -0.05$, $r(R,S) = -0.07$, $r(R,M) = 0.00$
+$$r(C,S) = 0.18$$, $$r(C,M) = -0.05$$, $$r(R,S) = -0.07$$, $$r(R,M) = 0.00$$
 
 **Grok Brain Now Smart:** Cave+Stay = best choice (reward 0.18)! Grok no go to dangerous river! Grok no trust fake valley too much! Conservative learning save Grok life! 🎉
 
