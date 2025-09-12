@@ -66,6 +66,8 @@ To that extent, I am fascinated by alternative constructs to model decision-maki
 
 <h3 id="caveman">Caveman Lessons</h3>
 
+<h4>1. Offline Inverse Reinforcement learning</h3>
+
 <!-- [🪓 IQ-Learn (Story of Grok and Elder Ugg)](/files/IQ_learn_caveman.md) -->
 
 {% capture caveman_content_iq_learn %}
@@ -82,7 +84,7 @@ To that extent, I am fascinated by alternative constructs to model decision-maki
   </div>
 </details>
 
-
+<br></br>
 
 {% capture caveman_content_clare %}
   {% include_relative clare_caveman_1.md %}
