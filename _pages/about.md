@@ -84,7 +84,7 @@ To that extent, I am fascinated by alternative constructs to model decision-maki
   </div>
 </details>
 
-<br></br>
+<br>
 
 {% capture caveman_content_clare %}
   {% include_relative clare_caveman_1.md %}
