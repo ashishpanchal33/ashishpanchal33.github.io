@@ -66,7 +66,7 @@ To that extent, I am fascinated by alternative constructs to model decision-maki
 
 <h3 id="caveman">Caveman Lessons</h3>
 
-<h4>1. Offline Inverse Reinforcement learning</h3>
+<h4>1. Offline Inverse Reinforcement learning</h4>
 
 <!-- [🪓 IQ-Learn (Story of Grok and Elder Ugg)](/files/IQ_learn_caveman.md) -->
 
