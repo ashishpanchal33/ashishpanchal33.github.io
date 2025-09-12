@@ -12,9 +12,10 @@ redirect_from:
 
 {: style="text-align: justify" }
 Hi!
-I am Ashish and I want to build highly adaptable decision-making  AI to help our society.
 
-At the moment I am working as a **Research Associate** at the **Indian School of Business**, with [Professor Vandith Pamuru](https://www.isb.edu/en/research-thought-leadership/faculty/faculty-directory/vandith-pamuru.html).
+I am Ashish, and I want to build highly adaptable decision-making AI to help our society.
+
+At the moment, I am working as a **Research Associate** at the **Indian School of Business**, with [Professor Vandith Pamuru](https://www.isb.edu/en/research-thought-leadership/faculty/faculty-directory/vandith-pamuru.html).
 
 <p style="text-align: justify;"> <b>Prior Experiences</b>: Over the past seven years, I've designed ML pipelines at an analytics startup, a fintech product company, and a major consulting firm. My experience spans credit risk and customer lifecycle modeling, automated insight generation from social listening, and forecasting. Further details about my skills and experience are available in my <a target="_self" href="/cv/">CV</a>. </p>
 
