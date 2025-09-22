@@ -42,12 +42,19 @@ At the moment, I am working as a **Research Associate** at the **Indian School o
   
 To learn more about my recent explorations, please visit my [Projects](https://ashishpanchal33.github.io/publications/) page. 
 
+**I am happy to chat**: [_Schedule a meeting_](https://calendar.app.google/5uJhYfngfTVWk8CG6)
+
 
 <h3 id="update">Update!</h3>
 
 - I am looking out for PhD positions!. Please feel free to reach out if you believe we could be a great team!
 - [04-26-2025] Submitted our paper: IEEE Access journal "Inducing Persona in Negotiations Between Agents in Generative AI Applications: Exploring Vulnerabilities and Emergent Dynamics"
 - [12-23-2024] My paper got accepted at AAAI-25 MARW workshop: "Unraveling Complex Sequential Social Dilemmas: In a Risky World with A2C Decision Transformer" 
+
+
+
+
+
 
 Some Garble Jarble
 ======
